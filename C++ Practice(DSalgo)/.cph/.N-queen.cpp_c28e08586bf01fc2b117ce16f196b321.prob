@@ -1,0 +1,1 @@
+{"name":"Local: N-queen","url":"e:\\DAIICT\\Algo and Ds (SI)\\C++ Practice(DSalgo)\\N-queen.cpp","tests":[{"id":1622537492754,"input":"4\n0 1 0 0\n0 0 0 1\n1 0 0 0\n0 0 1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DAIICT\\Algo and Ds (SI)\\C++ Practice(DSalgo)\\N-queen.cpp","group":"local","local":true}
