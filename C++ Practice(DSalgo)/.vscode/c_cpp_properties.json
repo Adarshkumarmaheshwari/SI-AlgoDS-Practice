@@ -4,7 +4,8 @@
             "${workspaceFolder}",
             "${workspaceFolder}/include"
         ],
-        "myCompilerPath": "/usr/local/bin/gcc-7"
+        "myCompilerPath": "/usr/local/bin/gcc-7",
+        "C_Cpp.intelliSenseEngine": "Default"
     },
     "configurations": [
         {
@@ -16,14 +17,17 @@
             ],
             "compilerPath": "C:\\Program Files (x86)\\mingw-w64\\i686-8.1.0-posix-dwarf-rt_v6-rev0\\mingw32\\bin\\gdb.exe",
             "cStandard": "c17",
-            "cppStandard": "c++17",
+            "cppStandard": "c++20",
             "browse": {
                 "path": [
                     "${workspaceFolder}"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
-            }
+            },
+            "includePath": [
+                "${workspaceFolder}/**"
+            ]
         }
     ],
     "version": 4
