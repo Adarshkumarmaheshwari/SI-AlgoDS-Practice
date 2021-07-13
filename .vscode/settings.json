@@ -1,7 +1,12 @@
 {
     "java.dependency.packagePresentation": "hierarchical",
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "regex": "cpp",
+        "sstream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
