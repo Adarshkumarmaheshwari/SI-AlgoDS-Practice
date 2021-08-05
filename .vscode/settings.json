@@ -10,7 +10,13 @@
         "utility": "cpp",
         "iosfwd": "cpp",
         "ostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "valarray": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled"
 }
